@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:heroku" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e65e56f0-ff5b-41cc-a56c-70e04334a50f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lKRBGprqAR6mnHcksaEATAddso" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.2" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.20.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app.js" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\torab\WebstormProjects\goldCrawler\controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="NodeJSConfigurationType" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e65e56f0-ff5b-41cc-a56c-70e04334a50f" name="Default Changelist" comment="" />
+      <created>1607343658644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607343658644</updated>
+      <workItem from="1607343660252" duration="4492000" />
+      <workItem from="1607352625372" duration="396000" />
+      <workItem from="1607355229860" duration="4407000" />
+      <workItem from="1607446849081" duration="4626000" />
+      <workItem from="1607460231815" duration="1611000" />
+      <workItem from="1607612622205" duration="7115000" />
+      <workItem from="1607887991004" duration="4746000" />
+      <workItem from="1607945093339" duration="2027000" />
+      <workItem from="1607949230782" duration="4952000" />
+      <workItem from="1607957492466" duration="832000" />
+      <workItem from="1607959870423" duration="280000" />
+      <workItem from="1607967395014" duration="3216000" />
+      <workItem from="1608018796333" duration="1475000" />
+      <workItem from="1608020661920" duration="1193000" />
+      <workItem from="1608021862768" duration="714000" />
+      <workItem from="1608025508546" duration="616000" />
+      <workItem from="1608192071335" duration="433000" />
+      <workItem from="1608192676875" duration="2189000" />
+      <workItem from="1608488716711" duration="403000" />
+      <workItem from="1608895752902" duration="10000" />
+      <workItem from="1609246751843" duration="424000" />
+      <workItem from="1610452920150" duration="63000" />
+      <workItem from="1610453893095" duration="179000" />
+      <workItem from="1610454118328" duration="1298000" />
+      <workItem from="1612685528833" duration="589000" />
+      <workItem from="1612691706180" duration="4435000" />
+      <workItem from="1612703012556" duration="50000" />
+      <workItem from="1613498169503" duration="661000" />
+      <workItem from="1614096947372" duration="120000" />
+      <workItem from="1614328319913" duration="417000" />
+      <workItem from="1615290579737" duration="665000" />
+      <workItem from="1615291326114" duration="1170000" />
+      <workItem from="1616700118797" duration="603000" />
+      <workItem from="1617005509316" duration="86000" />
+      <workItem from="1617008293226" duration="298000" />
+      <workItem from="1617700349072" duration="2759000" />
+      <workItem from="1618831070160" duration="2287000" />
+      <workItem from="1618984862543" duration="84000" />
+      <workItem from="1619367648588" duration="1909000" />
+      <workItem from="1619433742277" duration="3231000" />
+      <workItem from="1619438399114" duration="459000" />
+      <workItem from="1619439112414" duration="1003000" />
+      <workItem from="1619528216299" duration="74000" />
+      <workItem from="1619795067298" duration="274000" />
+      <workItem from="1619854490109" duration="477000" />
+      <workItem from="1619855621818" duration="299000" />
+    </task>
+    <task id="LOCAL-00001" summary="changing value to +15 / 4.3318">
+      <created>1618832098342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618832098342</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changing value to +15 / 4.3318">
+      <created>1618832544687</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618832544687</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changing value to +15 / 4.3318">
+      <created>1618832634511</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618832634511</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changing value to +15 / 4.3318">
+      <created>1618832774246</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618832774246</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adding updateTime">
+      <created>1619368976107</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619368976107</updated>
+    </task>
+    <task id="LOCAL-00006" summary="daylight saving">
+      <created>1619434957204</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619434957204</updated>
+    </task>
+    <task id="LOCAL-00007" summary="daylight saving">
+      <created>1619436904157</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1619436904157</updated>
+    </task>
+    <task id="LOCAL-00008" summary="switch to 30 seconds">
+      <created>1619437186633</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1619437186633</updated>
+    </task>
+    <task id="LOCAL-00009" summary="switch to 30 seconds">
+      <created>1619437581398</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1619437581398</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update project">
+      <created>1619854576027</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1619854576027</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update project">
+      <created>1619854735544</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1619854735544</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changing value to +15 / 4.3318" />
+    <MESSAGE value="adding updateTime" />
+    <MESSAGE value="daylight saving" />
+    <MESSAGE value="switch to 30 seconds" />
+    <MESSAGE value="update project" />
+    <option name="LAST_COMMIT_MESSAGE" value="update project" />
+  </component>
+</project>

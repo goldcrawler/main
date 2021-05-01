@@ -1,0 +1,22 @@
+{
+  "name": "goldcrawler",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "jalaali-js": "^1.1.5",
+    "jssoup": "0.0.12",
+    "lowdb": "^1.0.0",
+    "mongoose": "^5.11.4",
+    "morgan": "~1.9.1",
+    "node-fetch": "^2.6.1"
+  },
+  "engines": {
+    "node": "12.18.2"
+  }
+}

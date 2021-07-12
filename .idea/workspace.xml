@@ -19,11 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e65e56f0-ff5b-41cc-a56c-70e04334a50f" name="Default Changelist" comment="auto restart">
+    <list default="true" id="e65e56f0-ff5b-41cc-a56c-70e04334a50f" name="Default Changelist" comment="auto restart test 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controller/resetDyno.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/resetDyno.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +129,7 @@
       <workItem from="1620198554520" duration="82000" />
       <workItem from="1623855559622" duration="623000" />
       <workItem from="1623856582169" duration="1020000" />
-      <workItem from="1626095670135" duration="5222000" />
+      <workItem from="1626095670135" duration="6679000" />
     </task>
     <task id="LOCAL-00001" summary="changing value to +15 / 4.3318">
       <created>1618832098342</created>
@@ -215,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626101772046</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="auto restart test 2">
+      <created>1626102558535</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1626102558535</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +247,7 @@
     <MESSAGE value="switch to 30 seconds" />
     <MESSAGE value="update project" />
     <MESSAGE value="auto restart" />
-    <option name="LAST_COMMIT_MESSAGE" value="auto restart" />
+    <MESSAGE value="auto restart test 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="auto restart test 2" />
   </component>
 </project>

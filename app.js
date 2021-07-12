@@ -23,7 +23,7 @@ let port = normalizePort(process.env.PORT || '3000');
 app.listen(port)
 console.log('listening on port '+port);
 console.log("domain:"+ process.env.svDomain);
-setInterval(getPrices,  0.5 * 1000)
+setInterval(getPrices,  60 * 1000)
 
 app.use(express.json());
 app.use('/price', data);

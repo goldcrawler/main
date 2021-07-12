@@ -19,14 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e65e56f0-ff5b-41cc-a56c-70e04334a50f" name="Default Changelist" comment="update project">
-      <change afterPath="$PROJECT_DIR$/controller/resetDyno.js" afterDir="false" />
+    <list default="true" id="e65e56f0-ff5b-41cc-a56c-70e04334a50f" name="Default Changelist" comment="auto restart">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/prices.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/prices.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/crawler.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/crawler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/resetDyno.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/resetDyno.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,7 +129,7 @@
       <workItem from="1620198554520" duration="82000" />
       <workItem from="1623855559622" duration="623000" />
       <workItem from="1623856582169" duration="1020000" />
-      <workItem from="1626095670135" duration="4313000" />
+      <workItem from="1626095670135" duration="5222000" />
     </task>
     <task id="LOCAL-00001" summary="changing value to +15 / 4.3318">
       <created>1618832098342</created>
@@ -212,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619854735544</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="auto restart">
+      <created>1626101772046</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1626101772046</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +239,7 @@
     <MESSAGE value="daylight saving" />
     <MESSAGE value="switch to 30 seconds" />
     <MESSAGE value="update project" />
-    <option name="LAST_COMMIT_MESSAGE" value="update project" />
+    <MESSAGE value="auto restart" />
+    <option name="LAST_COMMIT_MESSAGE" value="auto restart" />
   </component>
 </project>

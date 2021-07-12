@@ -3,27 +3,27 @@
     "geram18": {
       "name": "geram18",
       "caption": "گرم 18 عیار",
-      "value": 10630000
+      "value": 10632000
     },
     "ounce": {
       "name": "ounce",
       "caption": "اونس جهانی",
-      "value": 1798.9
+      "value": 1807.1
     },
     "bazartehran": {
       "name": "bazartehran",
       "caption": "مظنه مثقال",
-      "value": 46050000
+      "value": 46060000
     },
     "jad_buy": {
       "name": "jad_buy",
       "caption": "سکه طرح جدید(امامی) خرید",
-      "value": 107100000
+      "value": 107050000
     },
     "jad_sell": {
       "name": "jad_sell",
       "caption": "سکه طرح جدید(امامی) فروش",
-      "value": 107100000
+      "value": 107050000
     },
     "nim_buy": {
       "name": "nim_buy",
@@ -67,7 +67,7 @@
     },
     "lastUpdated": {
       "date": "1400/4/21",
-      "time": "19:01:34"
+      "time": "19:39:17"
     }
   }
 }

@@ -18,5 +18,8 @@
   },
   "engines": {
     "node": "12.18.2"
+  },
+  "devDependencies": {
+    "request": "^2.88.2"
   }
 }

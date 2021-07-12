@@ -3,10 +3,13 @@ const JSSoup = require('jssoup').default;
 const low = require('lowdb')
 const FileSync = require('lowdb/adapters/FileSync')
 const jalali = require("jalaali-js");
+const {restart} = require("../controller/resetDyno");
 
 
 module.exports = getPrices = async () => {
-    let now = new Date(new Date().getTime() + 4.5 * 60 * 60 * 1000)
+    let now = new Date(new Date().getTime()
+   //     + 4.5 * 60 * 60 * 1000
+    )
     let hour = now.getHours()
     if (hour > 19 || hour < 11) {
         return null
@@ -143,7 +146,9 @@ module.exports = getPrices = async () => {
                 time: `${digitFixer(now.getHours())}:${digitFixer(now.getMinutes())}:${digitFixer(now.getSeconds())}`
             }
         } catch (e) {
+            console.log("error");
             console.log(e);
+            restart()
         }
         db.set('prices', prices)
             .write()

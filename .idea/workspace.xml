@@ -19,7 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e65e56f0-ff5b-41cc-a56c-70e04334a50f" name="Default Changelist" comment="" />
+    <list default="true" id="e65e56f0-ff5b-41cc-a56c-70e04334a50f" name="Default Changelist" comment="update project">
+      <change afterPath="$PROJECT_DIR$/controller/resetDyno.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/prices.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/prices.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/crawler.js" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/crawler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +129,11 @@
       <workItem from="1619528216299" duration="74000" />
       <workItem from="1619795067298" duration="274000" />
       <workItem from="1619854490109" duration="477000" />
-      <workItem from="1619855621818" duration="299000" />
+      <workItem from="1619855621818" duration="1213000" />
+      <workItem from="1620198554520" duration="82000" />
+      <workItem from="1623855559622" duration="623000" />
+      <workItem from="1623856582169" duration="1020000" />
+      <workItem from="1626095670135" duration="4313000" />
     </task>
     <task id="LOCAL-00001" summary="changing value to +15 / 4.3318">
       <created>1618832098342</created>

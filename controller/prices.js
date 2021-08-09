@@ -12,7 +12,6 @@ exports.kimia = async (req, res, next) => {
         res.status(404).send("page not found")
     }else {
     let price = db.get('prices').value()
-
     res.json(price)
     }
 }

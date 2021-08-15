@@ -3,71 +3,72 @@
     "geram18": {
       "name": "geram18",
       "caption": "گرم 18 عیار",
-      "value": 10632000
+      "value": 11362000
     },
     "ounce": {
       "name": "ounce",
       "caption": "اونس جهانی",
-      "value": 1804.8
+      "value": 1780.7
     },
     "bazartehran": {
       "name": "bazartehran",
       "caption": "مظنه مثقال",
-      "value": 46060000
+      "value": 49220000
     },
     "jad_buy": {
       "name": "jad_buy",
       "caption": "سکه طرح جدید(امامی) خرید",
-      "value": 107050000
+      "value": 118950000
     },
     "jad_sell": {
       "name": "jad_sell",
       "caption": "سکه طرح جدید(امامی) فروش",
-      "value": 107050000
+      "value": 118950000
     },
     "nim_buy": {
       "name": "nim_buy",
       "caption": "نیم سکه خرید",
-      "value": 56500000
+      "value": 59500000
     },
     "nim_sell": {
       "name": "nim_sell",
       "caption": "نیم سکه فروش",
-      "value": 56500000
+      "value": 59500000
     },
     "rob_buy": {
       "name": "rob_buy",
       "caption": "ربع سکه خرید",
-      "value": 36000000
+      "value": 37500000
     },
     "rob_sell": {
       "name": "rob_sell",
       "caption": "ربع سکه فروش",
-      "value": 36000000
+      "value": 37500000
     },
     "grm_buy": {
       "name": "grm_buy",
       "caption": "سکه گرمی خرید",
-      "value": 22500000
+      "value": 23000000
     },
     "grm_sell": {
       "name": "grm_sell",
       "caption": "سکه گرمی فروش",
-      "value": 22500000
+      "value": 23000000
     },
     "gad_sell": {
       "name": "gad_sell",
       "caption": "سکه طرح قدیم فروش",
-      "value": 105000000
+      "value": 111500000
     },
     "gad_buy": {
       "name": "gad_buy",
       "caption": "سکه طرح قدیم خرید",
-      "value": 105000000
+      "value": 111500000
     },
     "lastUpdated": {
-      "date": "1400/4/21",
-      "time": "19:57:44"
+      "dateObj": "2021-08-12T10:49:27.481Z",
+      "date": "1400/5/24",
+      "time": "19:49:27"
     }
   }
 }

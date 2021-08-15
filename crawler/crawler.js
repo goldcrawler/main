@@ -140,6 +140,7 @@ module.exports = getPrices = async () => {
             let jDate = jalali.toJalaali(now)
             let digitFixer = d => d.toString().length === 2 ? d : "0" + d.toString()
             prices.lastUpdated = {
+                dateObj: new Date(),
                 date: `${jDate.jy}/${jDate.jm}/${jDate.jd}`,
                 time: `${digitFixer(now.getHours())}:${digitFixer(now.getMinutes())}:${digitFixer(now.getSeconds())}`
             }

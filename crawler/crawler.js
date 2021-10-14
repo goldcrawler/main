@@ -7,7 +7,7 @@ const {restart} = require("../controller/resetDyno");
 
 
 module.exports = getPrices = async () => {
-    let now = new Date(new Date().getTime() + 4.5 * 60 * 60 * 1000)
+    let now = new Date(new Date().getTime() + 3.5 * 60 * 60 * 1000)
     let hour = now.getHours()
     if (hour > 19 || hour < 11) {
         return null

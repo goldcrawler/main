@@ -12,11 +12,11 @@ exports.kimia = async (req, res, next) => {
         console.log(ip)
         res.status(404).send("page not found")
     } else {
-        let d = new Date().getTime()
+        //let d = new Date().getTime()
         let price = db.get('prices').value()
-        let du = new Date(price.lastUpdated.dateObj).getTime()
-        du += (48*3600*1000)
-        if(d>du) restart();
+        //let du = new Date(price.lastUpdated.dateObj).getTime()
+        //du += (48*3600*1000)
+        //if(d>du) restart();
         res.json(price)
     }
 
@@ -24,11 +24,11 @@ exports.kimia = async (req, res, next) => {
 exports.mamad = async (req, res, next) => {
     const adapter = new FileSync('db.json')
     const db = low(adapter)
-    let d = new Date().getTime()
+    //let d = new Date().getTime()
     let price = db.get('prices').value()
-    let du = new Date(price.lastUpdated.dateObj).getTime()
-    du += (48*3600*1000)
-    if(d>du) restart();
+    //let du = new Date(price.lastUpdated.dateObj).getTime()
+    //du += (48*3600*1000)
+    //if(d>du) restart();
     res.json(price)
 }
 

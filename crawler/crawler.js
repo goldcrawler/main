@@ -20,7 +20,7 @@ module.exports = getPrices = async () => {
             grm_sell, grm_buy
         let prices = db.get('prices').value()
         try {
-            let html = await fetch("https://tala.ir/coin");
+            let html = await fetch("https://tala.ir");
             html = await html.text();
             let soup = new JSSoup(html);
             const rc = t => t.replace(/,/g, "");
@@ -55,6 +55,7 @@ module.exports = getPrices = async () => {
                 value: bazartehran,
             }
 
+
             geram18 = Math.trunc(bazartehran / (4331.8)) * 1000
             if (geram18 > 0) prices.geram18 = {
                 name: 'geram18',
@@ -62,6 +63,9 @@ module.exports = getPrices = async () => {
                 value: geram18,
             }
 
+            html = await fetch("https://tala.ir/coin");
+            html = await html.text();
+            soup = new JSSoup(html);
             let ex = soup.find("a", {title: "نرخ سکه امامی طرح جدید"}, "سکه امامی طرح جدید")
             let td = ex.parent.parent
             jad_buy = parseInt(p2e(rc(td.contents[2].text))) * 10
